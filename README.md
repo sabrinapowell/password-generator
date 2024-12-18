@@ -14,7 +14,7 @@ A web-based password generator that creates secure, random passwords based on us
 - Clean and responsive UI
 
 ## Technologies Used
-- **Frontend:** Next.js, CSS (Tailwind CSS), JavaScript, Lucide-React icons, MUI components
+- **Frontend:** Next.js, CSS (Tailwind CSS), TypeScript, Lucide-React icons, MUI components
 
 ## How to Use
 1. Select the desired password options (uppercase, lowercase, numbers, symbols).
